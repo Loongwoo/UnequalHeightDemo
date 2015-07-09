@@ -1,0 +1,17 @@
+[
+{
+  "ID": 1,
+  "question": "我的******为什么不可以用？",
+  "answer": "1. 确保打开手机麦克风权限，IOS手机请前往‘设置-通用-隐私-麦克风’，找到******并打开；\n2. 确保手机遥控器充满电；\n3. 插入是确保能看到‘******’的信息。"
+  },
+  {
+  "ID": 2,
+  "question": "Where can I buy your product？And where can I download your Android or IOS APP?",
+  "answer": "You can search '******' on taobao.com. And download our Android or IOS APP on our website www.kiwik.cn."
+  },
+  {
+  "ID": 3,
+  "question": "我想代理你们的产品，请问该怎么做？",
+  "answer": "请联系我们的销售经理，李某某，联系方式************"
+  }
+]
