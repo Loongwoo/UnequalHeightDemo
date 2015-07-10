@@ -89,7 +89,7 @@
 //Cell的总高度
 +(CGFloat)cellHeight:(ManualModel*)model{
     
-    return [UnequalHeightCell height:model.question font:QFont] + [UnequalHeightCell height:model.answer font:AFont];
+    return [self height:model.question font:QFont] + [self height:model.answer font:AFont];
 }
 
 @end
