@@ -30,14 +30,14 @@
         
         questionView=[[UIView alloc]initWithFrame:CGRectZero];
         questionView.backgroundColor=[UIColor colorWithRed:0 green:0.75 blue:1 alpha:1];
-        [self addSubview:questionView];
+        [self.contentView addSubview:questionView];
         
         questionLabel=[self labelWithFont:QFont textColor:[UIColor whiteColor]];
         [questionView addSubview:questionLabel];
         
         answerView=[[UIView alloc]initWithFrame:CGRectZero];
         answerView.backgroundColor=[UIColor whiteColor];
-        [self addSubview:answerView];
+        [self.contentView addSubview:answerView];
         
         answerLabel=[self labelWithFont:AFont textColor:[UIColor blackColor]];
         [answerView addSubview:answerLabel];
